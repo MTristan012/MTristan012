@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,bootstrap,nodejs,py,react,vite)](https://skillicons.dev)
 <!--
 **MTristan012/MTristan012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
