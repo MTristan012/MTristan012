@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,mysql,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,css,html,js,matlab,mysql,php,py)](https://skillicons.dev)
 </div>
 
 <h3 align="center"> Frameworks & Libraries </h3>
