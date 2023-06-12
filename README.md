@@ -10,6 +10,7 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,css,html,js,matlab,mysql,php,py)](https://skillicons.dev)
+
 </div>
 
 <h3 align="center"> Frameworks & Libraries </h3>
@@ -17,6 +18,15 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,vite)](https://skillicons.dev)
+
+</div>
+
+<h3 align="center"> Version Control Systems </h3>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 </div>
 
 <!--
