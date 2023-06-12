@@ -1,9 +1,24 @@
-# Hello there! 👋
-## I'm MTristan a Mechtronics / FullSatack Dev
+<h1 align="center"> Hello there! 👋 </h1>
+<h2 align="center"> I'm MTristan a Mechtronics / FullStack Dev </h2>
 
-<a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a>  
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,bootstrap,nodejs,py,react)](https://skillicons.dev)
+<h3 align="center"> Languages </h3>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,mysql,php,py)](https://skillicons.dev)
+</div>
+
+<h3 align="center"> Frameworks & Libraries </h3>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,vite)](https://skillicons.dev)
+</div>
+
 <!--
 **MTristan012/MTristan012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
