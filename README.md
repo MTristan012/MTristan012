@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello there! 👋
+## I'm MTristan a Mechtronics / FullSatack Dev
+
+<a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,bootstrap,nodejs,py,react)](https://skillicons.dev)
 <!--
