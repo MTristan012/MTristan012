@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there! 👋 </h1>
-<h2 align="center"> I'm MTristan a Mechtronics / FullStack Dev </h2>
+<h2 align="center"> I'm MTristan a Mechatronics / FullStack Dev </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a>  
