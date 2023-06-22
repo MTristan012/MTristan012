@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a>  
 </p>
 
-<h3 align="center"> Languages </h3>
+<h3 align="center"> Languages - Skills </h3>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<h3 align="center"> Frameworks & Libraries </h3>
+<h3 align="center"> Frameworks & Libraries - Skills </h3>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<h3 align="center"> Version Control Systems </h3>
+<h3 align="center"> Version Control Systems - Skills </h3>
 
 <div align="center">
 
