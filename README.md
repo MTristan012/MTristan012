@@ -33,6 +33,6 @@
 
 <div align="center">
 
-[![PORTFOLIO](https://mtristan012.github.io/PORTFOLIO/)](https://github.com/MTristan012/PORTFOLIO/blob/master/src/assets/proyecto_9.gif)
+[![PORTFOLIO](https://github.com/MTristan012/PORTFOLIO/blob/master/src/assets/proyecto_9.gif)](https://mtristan012.github.io/PORTFOLIO/)
 
 </div>
