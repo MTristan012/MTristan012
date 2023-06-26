@@ -41,6 +41,6 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,ts,vue)](https://skillicons.dev)
 
 </div>
