@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,vite)](https://skillicons.dev)
 
 </div>
 
@@ -41,6 +41,6 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,vue)](https://skillicons.dev)
 
 </div>
