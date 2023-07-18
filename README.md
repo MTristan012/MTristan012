@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,tailwind,vite)](https://skillicons.dev)
 
 </div>
 
@@ -29,6 +29,14 @@
 
 </div>
 
+<h3 align="center"> Learning </h3>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,ts,vue)](https://skillicons.dev)
+
+</div>
+
 <h3 align="center"> PORTFOLIO </h3>
 
 <div align="center">
@@ -37,10 +45,3 @@
 
 </div>
 
-<h3 align="center"> Learning </h3>
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,vue)](https://skillicons.dev)
-
-</div>
