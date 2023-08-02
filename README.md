@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a> 
-<a href="#" src"https://img.shields.io/github/followers/MTristan012?label=Followers&logo=GitHub"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MTristan012?label=Followers&style=social&logo=GitHub">
 </p>
 
 <h3 align="center"> Languages - Skills </h3>
