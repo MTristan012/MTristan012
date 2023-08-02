@@ -2,7 +2,8 @@
 <h2 align="center"> I'm MTristan a Mechatronics / FullStack Dev </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a>  
+  <a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Link-blue"></a> 
+<a src"https://img.shields.io/github/followers/MTristan012?label=Followers&logo=GitHub"></a>
 </p>
 
 <h3 align="center"> Languages - Skills </h3>
