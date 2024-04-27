@@ -6,7 +6,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MTristan012?label=Followers&style=social&logo=GitHub">
 </p>
 
-<h3 align="center"> Languages - Skills </h3>
+<h3 align="center"> Languages </h3>
 
 <div align="center">
 
@@ -14,11 +14,11 @@
 
 </div>
 
-<h3 align="center"> Frameworks & Libraries - Skills </h3>
+<h3 align="center"> Frameworks & Libraries </h3>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,tailwind,vite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,laravel,nodejs,react,tailwind,vite,vue)](https://skillicons.dev)
 
 </div>
 
