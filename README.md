@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,laravel,nodejs,react,tailwind,vite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,laravel,nodejs,react,tailwind,ts,vite,vue)](https://skillicons.dev)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 </div>
 
